@@ -1,10 +1,4 @@
-# Some markdown I tried
-Item | My Favorite
------|------------
-Ice Cream | Pistachio
-Spicy Food | Tai
 
-:wave: :wave:
 
 ## Welcome to GitHub Pages
 
